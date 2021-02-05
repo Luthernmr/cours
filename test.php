@@ -1,0 +1,2 @@
+symfony check:requirements
+compo
